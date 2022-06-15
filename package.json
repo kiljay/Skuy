@@ -1,0 +1,26 @@
+{
+  "name": "igkom",
+  "version": "1.0.0",
+  "description": "igkomn",
+  "main": "jos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiljay/Skuy.git"
+  },
+  "author": "Keylang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiljay/Skuy/issues"
+  },
+  "homepage": "https://github.com/kiljay/Skuy#readme",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "instagram-private-api": "^1.45.3",
+    "moment": "^2.29.3",
+    "readline-sync": "^1.4.10"
+  }
+}
